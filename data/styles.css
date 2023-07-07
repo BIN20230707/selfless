@@ -1,0 +1,242 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+._形状 {
+}
+._图片 {
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.line {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+._流程形状 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.placeholder {
+}
+.font_awesome_5_free_solid {
+  font-family:'Font Awesome 5 Free', sans-serif;
+  font-weight:900;
+  font-style:normal;
+}
+.box_2 {
+}
+._内容一级 {
+  font-family:'Roboto-Regular', 'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#33495F;
+}
+.refs-chart-data {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.shape {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+.label_link {
+  font-family:'Roboto-Thin', 'Roboto Thin', 'Roboto', sans-serif;
+  font-weight:200;
+  font-style:normal;
+  font-size:12px;
+  color:#52AFF1;
+  text-align:center;
+}
+.ellipse {
+}
+.label_table {
+  font-family:'Roboto-Thin', 'Roboto Thin', 'Roboto', sans-serif;
+  font-weight:200;
+  font-style:normal;
+  font-size:12px;
+  text-align:center;
+}
+._一级标题_roboto {
+  font-family:'Roboto-Medium', 'Roboto Medium', 'Roboto', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:left;
+}
+._____roboto1 {
+  font-family:'Roboto-Medium', 'Roboto Medium', 'Roboto', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:16px;
+  color:#333333;
+  text-align:left;
+}
+.table {
+}
+.table_cell_title {
+  font-family:'Roboto-Regular', 'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#1299F6;
+  text-align:left;
+}
+.table_cell {
+  font-family:'Roboto-Regular', 'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+._内容二级 {
+  font-family:'Roboto-Regular', 'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#33495F;
+}
+.button_fill {
+  font-family:'Roboto-Regular', 'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+._连接线 {
+}
+.content_detail_label {
+  font-family:'Roboto-Thin', 'Roboto Thin', 'Roboto', sans-serif;
+  font-weight:200;
+  font-style:normal;
+  font-size:12px;
+  color:#949494;
+  text-align:left;
+}
+.flow_shape {
+}
+.connector {
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.line1 {
+}
+.shape1 {
+}
+.image {
+}
+.text_box_ {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#C9C9C9;
+  text-align:left;
+}
+.image1 {
+  color:#000000;
+}
+.box_21 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+._形状1 {
+}
+.icon {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.ellipse1 {
+}
+.box_11 {
+}
+._图片_ {
+  color:#000000;
+}
+textarea, select, input, button { outline: none; }
